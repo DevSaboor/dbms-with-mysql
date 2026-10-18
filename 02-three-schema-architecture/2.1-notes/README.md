@@ -2,16 +2,6 @@
 
 > Understand how a DBMS separates what users see, how the database is logically organized, and how data is physically stored.
 
-## 🎯 Learning Objectives
-
-By the end of this chapter, you should be able to:
-
-- Explain database schemas and database instances.
-- Understand the ANSI-SPARC Three-Schema Architecture.
-- Differentiate between external, conceptual, and internal schemas.
-- Explain logical and physical data independence.
-- Apply these concepts to a university database example.
-
 ---
 
 ## 1. 🧩 Database Schema vs. Database Instance
